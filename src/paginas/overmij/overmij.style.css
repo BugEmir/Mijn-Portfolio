@@ -1,0 +1,31 @@
+.about {
+    font-size: 1.1em;
+    background-color: transparent;
+}
+
+
+.my-details {
+    background-color: rgba(255, 255, 255, 0.747);
+}
+
+.profile {
+    max-width: 18em;
+}
+
+
+.font-details {
+    font-weight: 500;
+    font-size: 3em;
+    color: #231d5af8;
+}
+
+.alertje {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.hoi {
+    border: 1px solid lawngreen;
+    padding: 1rem;
+}
